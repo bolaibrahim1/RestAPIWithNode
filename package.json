@@ -1,0 +1,21 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "API with nodejs, auth, validations, and jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "jwt",
+    "auth",
+    "validation"
+  ],
+  "author": "Daouda Sanogo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.0"
+  }
+}
